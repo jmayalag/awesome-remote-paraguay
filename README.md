@@ -6,10 +6,13 @@ Este documento contiene FAQ (Preguntas Frecuentes) acerca del trabajo remoto en 
 
 ---
 
-## Contents
+## Contenido
 
 - [Facturacion](#facturacion)
 - [Transferencias](#transferencias)
+	- [Transferencias Bancarias](#transferencias-bancarias)
+	- [Remesa](#remesa)
+	- [Otros](#otros)
 - [Impuestos](#impuestos)
 - [Dónde buscar trabajo?](#trabajo-remoto)
   - [Programación](#programacion)
