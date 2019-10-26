@@ -127,6 +127,7 @@ Los servicios de seguros se considerarán prestados en el territorio nacional, c
 Podría ser de utilidad
 
 - [Asuncion English Conversation Meetup](https://www.meetup.com/es-ES/Asuncion-English-Conversation-Meetup/events/260879764) - Inglés todos los martes a las 19:00 en el patio de comidas del 3er piso en Paseo la Galería, en Asunción.
+- [Awesome Remote Work](https://github.com/hugo53/awesome-RemoteWork) - A curated list of awesome resources for remote workers.
 
 ## License
 
